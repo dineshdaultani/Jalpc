@@ -4,7 +4,7 @@
     detail: CRTCL
     i18n: company_a
   desc:
-    detail: Gathering news data to predict cryptocurrencies prices through sentiment analysis and trading patterns.
+    detail: Gather news data to predict cryptocurrencies prices through sentiment analysis and trading patterns.
     i18n: company_a_desc
   date:
     detail: Sept 2017 - Present
