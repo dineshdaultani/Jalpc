@@ -1,4 +1,11 @@
 # links section data
+- last_name: Daultani
+  first_name: Dinesh
+  #desc: Support Jalpc
+  #website: http://www.jarrekk.com/donate/
+  email: dinesh.daultani@gmail.com
+  phone: (309) 684-8303
+
 #- last_name: Name 1
 #  first_name:
 #  desc: CEO
@@ -10,13 +17,6 @@
 #  desc: Support Jalpc
 #  website: http://www.jarrekk.com/donate/
 # email: me@jarrekk.com
-
-- last_name: Daultani
-  first_name: Dinesh
-  #desc: Support Jalpc
-  #website: http://www.jarrekk.com/donate/
- email: dinesh.daultani@gmail.com
- phone: (309) 684-8303
 
 #- last_name: LN
 #  first_name: FN
