@@ -1,22 +1,24 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Jalpc
-  i18n: jalpc
-  gh_user: jarrekk
-  repo: Jalpc
+- name: Stock Predictions
+  i18n: stockp
+  gh_user: dineshdaultani
+  repo: StockPredictions
   img: /static/assets/img/landing/jekyll.png
-  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
+  desc: Gathered NYTimes news headlines to predict DJIA stock indices values by applying machine learning models on setiment scores.
 
-- name: Python
-  i18n: cpython
-  gh_user: python
-  repo: cpython
+- name: Computer Vision Image Classification
+  i18n: cvimageclass
+  gh_user: dineshdaultani
+  repo: ISUDeepLearning
   img: /static/assets/img/landing/python.png
-  desc: This project is other's project. I use another request to get repo's information.
+  desc: Helped professor in reproducing best published research papers on MNIST dataset to optimize the error rate more than 99%  using convolutional neural networks and recurrent neural network.
 
-- name: Google
-  i18n: google
-  url: https://google.com
+- name: NIPs Conference Data Mining
+  i18n: NIPS
+  #url: https://google.com
+  gh_user: dineshdaultani
+  repo: nipsanalysis
   img: /static/assets/img/landing/google.png
-  desc: This is another project.
+  desc: Gathered research papers through the web crawling of NIPS conference website and extracted valuable information about the published papers using Beautiful Soup and pandas library in python.
