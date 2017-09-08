@@ -5,7 +5,7 @@
   i18n: stockp
   gh_user: dineshdaultani
   repo: StockPredictions
-  img: /static/assets/img/landing/jekyll.png
+  img: /static/assets/img/landing/python.png
   desc: Gathered NYTimes news headlines to predict DJIA stock indices values by applying machine learning models on setiment scores.
 
 - name: Computer Vision Image Classification
@@ -20,5 +20,5 @@
   #url: https://google.com
   gh_user: dineshdaultani
   repo: nipsanalysis
-  img: /static/assets/img/landing/google.png
+  img: /static/assets/img/landing/r_python.png
   desc: Gathered research papers through the web crawling of NIPS conference website and extracted valuable information about the published papers using Beautiful Soup and pandas library in python.
