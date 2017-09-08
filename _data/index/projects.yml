@@ -20,5 +20,6 @@
   #url: https://google.com
   gh_user: dineshdaultani
   repo: nipsanalysis
-  img: /static/assets/img/landing/r_python.jpg
+  img: /static/assets/img/landing/python.jpg
+  img: /static/assets/img/landing/python.jpg
   desc: Gathered research papers through the web crawling of NIPS conference website and extracted valuable information about the published papers using Beautiful Soup and pandas library in python.
