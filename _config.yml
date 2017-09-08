@@ -4,8 +4,8 @@
 title: Dinesh Daultani Blog
 description: Dinesh Daultani Personal Blog.
 keywords: Dinesh,Daultani,dinesh daultani,dineshdaultani,blog,Jekyll,github,gh-pages, machine learning
-baseurl:   # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
-url: https://dineshdaultani.github.io  # url should be 'http://<github_username>.github.io/homepage' as before
+baseurl:   
+url: https://dineshdaultani.github.io 
 # url: http://127.0.0.1:4000
 img_path: /static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
 
@@ -14,7 +14,7 @@ author:
   name: dineshdaultani  
   first_name: Dinesh  
   last_name: Daultani 
-  avatar: /static/assets/img/landing/avatar.jpg 
+  avatar: /static/assets/img/landing/DineshDaultaniPic.jpg 
   github_username: dineshdaultani  
   linkedin_id: dineshdaultani 
   facebook_username: dineshdaultani21  
@@ -51,8 +51,8 @@ ga:  # if you wanna this feature, go to https://www.google.com/analytics/ to get
 donation: off  # type 'on'/'off' to choice display donation button at post page or not
 
 ## carousels
-index_carousel: on  # index page carousel switch
-blog_carousel: on  # blog page carousel switch
+index_carousel: on  
+blog_carousel: on  
 
 # scss
 sass:
