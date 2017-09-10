@@ -7,7 +7,7 @@
   repo: StockPredictions
   img: /static/assets/img/landing/python.png
   desc: Gathered NYTimes news headlines to predict DJIA stock indices values by applying machine learning models on setiment scores.
-  tech: Python, Scikit-learn, NLTK, Pandas, Time Series
+  tech: Language / Technologies used - Python, Scikit-learn, NLTK, Pandas, Time Series
   
 - name: Computer Vision Image Classification
   i18n: cvimageclass
@@ -15,6 +15,7 @@
   repo: ISUDeepLearning
   img: /static/assets/img/landing/python.png
   desc: Helped professor in reproducing best published research papers on MNIST dataset to optimize the error rate more than 99%  using convolutional neural networks and recurrent neural network.
+  tech: Language / Technologies used - Python, Neural Networks (CNN & RNN), Theano, Caffe, ggplot2, Nvidia GPUs
 
 - name: CIFAR-10 Image Classification
   i18n: cifar-10
@@ -23,6 +24,7 @@
   #repo: nipsanalysis
   img: /static/assets/img/landing/python.png
   desc:  Implemented convolutional neural networks and recurrent neural network to predict and visualize the images in CIFAR-10 dataset.
+  tech: Language / Technologies used - Python, Pandas, Numpy, ggplot2
   
 - name: NIPs Conference Data Mining
   i18n: NIPS
@@ -31,6 +33,7 @@
   repo: nipsanalysis
   img: /static/assets/img/landing/python.png
   desc: Gathered research papers through the web crawling of NIPS conference website and extracted valuable information about the published papers using Beautiful Soup and pandas library in python.
+  tech: Language / Technologies used - Python, R, Pandas, Beautiful Soup, Data Mining
 
 - name: Feed My Starving Children Non-Profit Organization's Website
   i18n: fmsc
@@ -39,6 +42,7 @@
   #repo: nipsanalysis
   img: /static/assets/img/landing/python.png
   desc:  Developed a java web application to sell pixels of images to raise money for non-profit organization. Hosted the application on AWS Elastic Beanstalk and RDS service.
+  tech: Language / Technologies used - Java (JSF), SQL, Javascript, JQuery, MVC, DAO, Maven, Bootstrap Template and PrimeFaces
   
 - name: AWS IOT Hands-On (Experimented on Android App and Raspberry PII)
   i18n: awsiot
@@ -47,6 +51,7 @@
   #repo: nipsanalysis
   img: /static/assets/img/landing/python.png
   desc: Performed experiment on AWS (Amazon Web Services) IOT (Internet Of Things) console, connecting two or more devices i.e. AWS EC2 Ubuntu server and Raspberry PII to communicate through various MQTT commands provided by AWS.
+  tech: Language / Technologies used - IOT, AWS (EC2, IOT, Cognito), Python, Android and SSH
   
 - name: Research Project on Mosh (Mobile Shell)
   i18n: mosh
@@ -55,6 +60,7 @@
   #repo: nipsanalysis
   img: /static/assets/img/landing/python.png
   desc: Executed python scripts for reproducing results of Mosh application by running an emulated Mininet Client and Server Architecture on Cloud.
+  tech: Language / Technologies used - Networking, AWS (EC2), Mininet, Python and State Synchronization Protocol
   
 - name: Car Pooling Online System (Major Project)
   i18n: carpool
@@ -63,3 +69,4 @@
   #repo: nipsanalysis
   img: /static/assets/img/landing/python.png
   desc: Continuously motivated, directed and administered team of 5 persons. Developed the system by using Rapid Application Development model. Segregated designing code and programming code by using MVC framework of Struts. Used JSP and Struts for development and programming. Debugged the programming code frequently and done Integration Testing as well as Unit Testing of the system.
+  tech: Language / Technologies used - Java (JSP & Struts), HTML, CSS, Javascript, JQuery and SQL
