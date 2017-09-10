@@ -41,8 +41,8 @@
     detail: Graduate Teaching Assistant
     i18n: company_c_job
   icon: fa-plus-square
-  
-  - name:
+
+- name:
     detail: Cognizant Technology Solutions
     i18n: company_d
   desc:
@@ -55,8 +55,8 @@
     detail: Programmer Analyst
     i18n: company_d_job
   icon: fa-plus-square
-  
-  - name:
+
+- name:
     detail: Persistent Systems
     i18n: company_e
   desc:
