@@ -1,0 +1,29 @@
+# careers section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name:
+    detail: Illinois State University
+    i18n: company_a
+  desc:
+    detail: Courses - Machine Learning; Research Methodologies; Advanced Web Development; Advanced Database Management; IT Project Management; Systems Analysis & Design; 
+    i18n: company_a_desc
+  date:
+    detail: Aug 2015 - May 2017
+    i18n: company_a_date
+  job:
+    detail: Master of Science in Information Systems
+    i18n: company_a_job
+  icon: fa-plus-square
+
+- name:
+    detail: C.D.G.I. Indore, India
+    i18n: company_a
+  desc:
+    detail: Courses - Operating Systems; Algorithms; Data Structures; Web Engineering; Cloud Computing; Computer Networking; 
+    i18n: company_a_desc
+  date:
+    detail: Jul 2010 - Jun 2014
+    i18n: company_a_date
+  job:
+    detail: Bachelor of Engineering in Computer Science
+    i18n: company_a_job
+  icon: fa-plus-square
