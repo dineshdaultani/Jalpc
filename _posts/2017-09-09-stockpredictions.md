@@ -48,13 +48,13 @@ Output of sentiment analysis is being fed to machine learning models to predict 
 Below are the results after applying various classifiers. Note: Orange line shows Exponentially Weighted Moving Average (EWMA) of actual price and blue line shows EWMA of predicted price.  <br />
   
 ### Random Forest:  
-<img src="{{ site.img_path }}/stockpredictions/random-forest.png" width="75%">   <br />
+<img src="{{ site.img_path }}/stockpredictions/random-forest.png" width="50%">   <br />
 
 ### Logistic Regression:  
-<img src="{{ site.img_path }}/stockpredictions/logistic-reasoning.png" width="75%">  <br />
+<img src="{{ site.img_path }}/stockpredictions/logistic-reasoning.png" width="50%">  <br />
 
 ### MLP classifier:  
-<img src="{{ site.img_path }}/stockpredictions/mlp-classifier.png" width="75%">  <br />
+<img src="{{ site.img_path }}/stockpredictions/mlp-classifier.png" width="50%">  <br />
   
 # Challenges
 
