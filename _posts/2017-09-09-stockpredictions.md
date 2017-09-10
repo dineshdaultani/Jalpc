@@ -43,8 +43,9 @@ After filtering out the relevant articles, a single string was formed from conca
   
 # Sentiment Analysis
 
-The Natural Language Toolkit (NLTK) package in python is the most widely used for sentiment analysis for classifying emotions or behavior through natural language processing. Vader Sentiment Analyzer, which comes with NLTK package, is used to score single merged strings for articles and gives a positive, negative and neutral score for that string.  <br />
-
+The Natural Language Toolkit (NLTK) package in python is the most widely used for sentiment analysis for classifying emotions or behavior through natural language processing. Vader Sentiment Analyzer, which comes with NLTK package, is used to score single merged strings for articles and gives a positive, negative and neutral score for that string.  <br /><br />
+  
+  
 # Training models
 
 Output of sentiment analysis is being fed to machine learning models to predict the stock prices of DJIA indices. We have used scikit-learn[4] library to train various machine learning models such as Random Forest, Logistic Regression and Multi-Layer Perceptron (MLP) Classifiers with different optimized values of hyper parameters to get the best optimized results. 
@@ -81,7 +82,6 @@ Our tests determined that using the MLP classifier (a.k.a. neural networks) show
   
 Github Project Link: https://github.com/dineshdaultani/StockPredictions  
 <br /><br />
-  
   
 # References:
 
