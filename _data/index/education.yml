@@ -4,7 +4,8 @@
     detail: Illinois State University
     i18n: company_a
   desc:
-    detail: Courses - Machine Learning; Research Methodologies; Advanced Web Development; Advanced Database Management; IT Project Management; Systems Analysis & Design; 
+    courses: Machine Learning; Research Methodologies; Advanced Web Development; Advanced Database Management; IT Project Management; Systems Analysis & Design; 
+    societies: Intel Student Ambassador of Artificial Intelligence. President of Indian Student Association RSO at Illinois State University. President and Founder of Machine Learning student interest group under ACM/AITP Society. Member of Graduate Student Advisory Council (GSAC) at Illinois State University. Member of Internationalization Student Panel at Illinois State University.
     i18n: company_a_desc
   date:
     detail: Aug 2015 - May 2017
@@ -18,7 +19,8 @@
     detail: C.D.G.I. Indore, India
     i18n: company_a
   desc:
-    detail: Courses - Operating Systems; Algorithms; Data Structures; Web Engineering; Cloud Computing; Computer Networking; 
+    courses: Operating Systems; Algorithms; Data Structures; Web Engineering; Cloud Computing; Computer Networking; 
+    societies:
     i18n: company_a_desc
   date:
     detail: Jul 2010 - Jun 2014
