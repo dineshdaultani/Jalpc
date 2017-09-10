@@ -29,11 +29,11 @@ Two types of data gathered over the span of ten years from 2007-2016 as follows:
 
 # Data Processing
 
-## Article Filtering:
+### Article Filtering:
 
 Articles collected from the NY Times archive API contain the data in the form of categories represented by sections. Some of the sections contains some irrelevant categories of articles, which are not related to stocks at all, such as Biography, Obituary, Schedule etc. Therefore, we have removed those kinds of articles from the lists. Article sections that are kept at the end for sentiment analysis are as follows: 'Business', 'National', 'World', 'U.S.' , 'Politics', 'Opinion', 'Tech', 'Science',  'Health' and 'Foreign'. Out of 1M articles, approximately 400k articles are filtered out after applying the above filters.
 
-## Merge stock indices with articles:
+### Merge stock indices with articles:
 
 After filtering out the relevant articles, a single string was formed from concatenating all the articles headlines for a single day. After getting the single string for a day, it was merged with appropriate date (time series) and Dow Jones Industrial Average (DJIA) stock index value.
 
@@ -47,11 +47,13 @@ Output of sentiment analysis is being fed to machine learning models to predict 
 
 Below are the results after applying various classifiers. Note: Orange line shows Exponentially Weighted Moving Average (EWMA) of actual price and blue line shows EWMA of predicted price.
 
-## Random Forest:
+### Random Forest:
 <img src="{{ site.img_path }}/stockpredictions/random-forest.png" width="75%">
-## Logistic Regression:
+
+### Logistic Regression:
 <img src="{{ site.img_path }}/stockpredictions/logistic-reasoning.png" width="75%">
-## MLP classifier:
+
+### MLP classifier:
 <img src="{{ site.img_path }}/stockpredictions/mlp-classifier.png" width="75%">
 
 # Challenges
