@@ -4,7 +4,7 @@ title:  "Stock Predictions through News Sentiment Analysis"
 date:   2017-09-09
 desc: "Stock Predictions through News Sentiment Analysis"
 keywords: "stock predictions, machine learning, dinesh daultani, blog, sentiment analysis"
-categories: [machine learning] [stock predictions]
+categories: [machine learning]
 tags: [stockpredictions, machinelearning, dineshdaultani]
 icon: icon-html
 ---
