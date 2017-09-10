@@ -7,7 +7,8 @@
   repo: StockPredictions
   img: /static/assets/img/landing/python.png
   desc: Gathered NYTimes news headlines to predict DJIA stock indices values by applying machine learning models on setiment scores.
-Python, Scikit-learn, NLTK, Pandas, Time Series
+  tech: Python, Scikit-learn, NLTK, Pandas, Time Series
+  
 - name: Computer Vision Image Classification
   i18n: cvimageclass
   gh_user: dineshdaultani
