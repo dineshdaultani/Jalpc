@@ -7,21 +7,13 @@
   repo: StockPredictions
   img: /static/assets/img/landing/python.png
   desc: Gathered NYTimes news headlines to predict DJIA stock indices values by applying machine learning models on setiment scores.
-
+Python, Scikit-learn, NLTK, Pandas, Time Series
 - name: Computer Vision Image Classification
   i18n: cvimageclass
   gh_user: dineshdaultani
   repo: ISUDeepLearning
   img: /static/assets/img/landing/python.png
   desc: Helped professor in reproducing best published research papers on MNIST dataset to optimize the error rate more than 99%  using convolutional neural networks and recurrent neural network.
-
-- name: NIPs Conference Data Mining
-  i18n: NIPS
-  #url: https://google.com
-  gh_user: dineshdaultani
-  repo: nipsanalysis
-  img: /static/assets/img/landing/python.png
-  desc: Gathered research papers through the web crawling of NIPS conference website and extracted valuable information about the published papers using Beautiful Soup and pandas library in python.
 
 - name: CIFAR-10 Image Classification
   i18n: cifar-10
@@ -31,6 +23,14 @@
   img: /static/assets/img/landing/python.png
   desc:  Implemented convolutional neural networks and recurrent neural network to predict and visualize the images in CIFAR-10 dataset.
   
+- name: NIPs Conference Data Mining
+  i18n: NIPS
+  #url: https://google.com
+  gh_user: dineshdaultani
+  repo: nipsanalysis
+  img: /static/assets/img/landing/python.png
+  desc: Gathered research papers through the web crawling of NIPS conference website and extracted valuable information about the published papers using Beautiful Soup and pandas library in python.
+
 - name: Feed My Starving Children Non-Profit Organization's Website
   i18n: fmsc
   #url: https://google.com
