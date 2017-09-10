@@ -21,5 +21,44 @@
   gh_user: dineshdaultani
   repo: nipsanalysis
   img: /static/assets/img/landing/python.png
-  img: /static/assets/img/landing/python.png
   desc: Gathered research papers through the web crawling of NIPS conference website and extracted valuable information about the published papers using Beautiful Soup and pandas library in python.
+
+- name: CIFAR-10 Image Classification
+  i18n: cifar-10
+  #url: https://google.com
+  gh_user: dineshdaultani
+  #repo: nipsanalysis
+  img: /static/assets/img/landing/python.png
+  desc:  Implemented convolutional neural networks and recurrent neural network to predict and visualize the images in CIFAR-10 dataset.
+  
+- name: Feed My Starving Children Non-Profit Organization's Website
+  i18n: fmsc
+  #url: https://google.com
+  gh_user: dineshdaultani
+  #repo: nipsanalysis
+  img: /static/assets/img/landing/python.png
+  desc:  Developed a java web application to sell pixels of images to raise money for non-profit organization. Hosted the application on AWS Elastic Beanstalk and RDS service.
+  
+- name: AWS IOT Hands-On (Experimented on Android App and Raspberry PII)
+  i18n: awsiot
+  #url: https://google.com
+  gh_user: dineshdaultani
+  #repo: nipsanalysis
+  img: /static/assets/img/landing/python.png
+  desc: Performed experiment on AWS (Amazon Web Services) IOT (Internet Of Things) console, connecting two or more devices i.e. AWS EC2 Ubuntu server and Raspberry PII to communicate through various MQTT commands provided by AWS.
+  
+- name: Research Project on Mosh (Mobile Shell)
+  i18n: mosh
+  #url: https://google.com
+  gh_user: dineshdaultani
+  #repo: nipsanalysis
+  img: /static/assets/img/landing/python.png
+  desc: Executed python scripts for reproducing results of Mosh application by running an emulated Mininet Client and Server Architecture on Cloud.
+  
+- name: Car Pooling Online System (Major Project)
+  i18n: carpool
+  #url: https://google.com
+  gh_user: dineshdaultani
+  #repo: nipsanalysis
+  img: /static/assets/img/landing/python.png
+  desc: Continuously motivated, directed and administered team of 5 persons. Developed the system by using Rapid Application Development model. Segregated designing code and programming code by using MVC framework of Struts. Used JSP and Struts for development and programming. Debugged the programming code frequently and done Integration Testing as well as Unit Testing of the system.
