@@ -18,7 +18,7 @@
     detail: RR Donnelley
     i18n: company_b
   desc:
-    detail: Apply machine learning / statistical models to increase the profits of marketing campaigns 
+    detail: Apply machine learning / statistical models to increase the profits of marketing campaigns. 
     i18n: company_b_desc
   date:
     detail: Jan 2017 - Aug 2017
@@ -26,4 +26,46 @@
   job:
     detail: Data Scientist Intern
     i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: Illinois State University
+    i18n: company_c
+  desc:
+    detail:  Taught diverse majors undergrad students Java and basics of computers in the introductory programming course labs.
+    i18n: company_c_desc
+  date:
+    detail: Aug 2016 - May 2017
+    i18n: company_c_date
+  job:
+    detail: Graduate Teaching Assistant
+    i18n: company_c_job
+  icon: fa-plus-square
+  
+  - name:
+    detail: Cognizant Technology Solutions
+    i18n: company_d
+  desc:
+    detail: Specialized on different Mainframe Technologies i.e. JCL, COBOL, VSAM and DB2. Wrote more than 50,000 line of codes in Mainframe and also followed company programming standards.
+    i18n: company_d_desc
+  date:
+    detail: Feb 2015 - Jul 2015
+    i18n: company_d_date
+  job:
+    detail: Programmer Analyst
+    i18n: company_d_job
+  icon: fa-plus-square
+  
+  - name:
+    detail: Persistent Systems
+    i18n: company_e
+  desc:
+    detail: Developed Complaint Web Portal using Struts MVC Framework and designed an interactive website by using HTML, CSS, Javascript & JQuery.
+    i18n: company_e_desc
+  date:
+    detail: Jun 2013 - Jul 2013
+    i18n: company_e_date
+  job:
+    detail: Web Developer Intern
+    i18n: company_e_job
   icon: fa-plus-square
