@@ -30,12 +30,12 @@
   tpl: projects.html
   css: project
 
-#- id: blog
-#  i18n: nav.blog
-#  name: Blog
-#  tpl: blog.html
-#  page: blog/
-#  css: testimonials navy-section
+- id: blog
+  i18n: nav.blog
+  name: Blog
+  tpl: blog.html
+  page: blog/
+  css: testimonials navy-section
 
 - id: contact
   i18n: nav.contact
