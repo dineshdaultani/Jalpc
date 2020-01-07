@@ -6,8 +6,8 @@
   gh_user: dineshdaultani
   #repo: StockPredictions
   img: /static/assets/img/landing/python.png
-  desc: Gained more than 7% ROI / year in daily trading of products such as forex currency pairs, bonds, and indexes by developing end-to-end machine learning models based on historical market macroeconomics data for assets under management (AUM) of tens of millions of dollars
-  tech: Language / Technologies used - Python, Scikit-learn, Time Series, FFNN, LSTM, Keras, TensorFlow 
+  desc: Gained more than 7% ROI / year in daily trading of products such as forex currency pairs, bonds, and indexes by developing end-to-end machine learning models based on historical market macroeconomics data.
+  tech: Language / Technologies used - Scikit-learn, Time Series, FFNN, LSTM, Keras, TensorFlow 
   
 - name: Cybersecurity
   i18n: csec
