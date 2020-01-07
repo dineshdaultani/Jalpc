@@ -1,6 +1,43 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+- name: Market Trading
+  i18n: trading
+  gh_user: dineshdaultani
+  #repo: StockPredictions
+  img: /static/assets/img/landing/python.png
+  desc: Gained more than 7% ROI / year in daily trading of products such as forex currency pairs, bonds, and 
+  indexes by developing end-to-end machine learning models based on historical market macroeconomics data for 
+  assets under management (AUM) of tens of millions of dollars
+  tech: Language / Technologies used - Python, Scikit-learn, Time Series, FFNN, LSTM, Keras, TensorFlow 
+  
+- name: Cybersecurity
+  i18n: csec
+  gh_user: dineshdaultani
+  #repo: StockPredictions
+  img: /static/assets/img/landing/python.png
+  desc: Design and develop a user and entity analysis (UEBA) tool to detect anomalies in Rakuten infrastructure 
+  from network text logs by convolutional neural networks and multi-modal learning approaches
+  tech: Language / Technologies used - Python, Keras, TensorFlow, Shell, CNN, Clustering, Scikit-learn
+
+- name: Credibility Modeling
+  i18n: creditm
+  gh_user: dineshdaultani
+  #repo: StockPredictions
+  img: /static/assets/img/landing/python.png
+  desc: Increased the approval rate of credit card merchant customers by 5% by developing a credibility scoring model 
+  and segmentation of merchants that led to increase in revenue of millions of dollars
+  tech: Language / Technologies used - Python, Scikit-learn, Segmentation, XGBoost
+
+- name: Ad Banners Optimization
+  i18n: adbanners
+  gh_user: dineshdaultani
+  #repo: StockPredictions
+  img: /static/assets/img/landing/python.png
+  desc: Research about current recommendation systems, platform & frameworks used in industry and academia. 
+  Develop a contextual bandit model to show banners on Rakuten ecommerce websites
+  tech: Language / Technologies used - Python, Bandit, Thomson Sampling
+
 - name: Stock Predictions
   i18n: stockp
   gh_user: dineshdaultani
@@ -13,7 +50,7 @@
   i18n: cvimageclass
   gh_user: dineshdaultani
   repo: ISUDeepLearning
-  img: /static/assets/img/landing/python.png
+  img: /static/assets/img/landing/cnn.png
   desc: Helped professor in reproducing best published research papers on MNIST dataset to optimize the error rate more than 99%  using convolutional neural networks and recurrent neural network.
   tech: Language / Technologies used - Python, Neural Networks (CNN & RNN), Theano, Caffe, ggplot2, Nvidia GPUs
 
