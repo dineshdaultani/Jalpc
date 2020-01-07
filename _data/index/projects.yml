@@ -5,7 +5,7 @@
   i18n: trading
   gh_user: dineshdaultani
   #repo: StockPredictions
-  img: /static/assets/img/landing/python.png
+  img: /static/assets/img/landing/market_trading.png
   desc: Gained more than 7% ROI / year in daily trading of products such as forex currency pairs, bonds, and indexes by developing end-to-end machine learning models based on historical market macroeconomics data.
   tech: Language / Technologies used - Scikit-learn, Time Series, FFNN, LSTM, Keras, TensorFlow 
   
@@ -13,7 +13,7 @@
   i18n: csec
   gh_user: dineshdaultani
   #repo: StockPredictions
-  img: /static/assets/img/landing/python.png
+  img: /static/assets/img/landing/anomaly_detection.png
   desc: Design and develop a user and entity analysis (UEBA) tool to detect anomalies in Rakuten infrastructure from network text logs by convolutional neural networks and multi-modal learning approaches
   tech: Language / Technologies used - Python, Keras, TensorFlow, Shell, CNN, Clustering, Scikit-learn
 
@@ -21,7 +21,7 @@
   i18n: creditm
   gh_user: dineshdaultani
   #repo: StockPredictions
-  img: /static/assets/img/landing/python.png
+  img: /static/assets/img/landing/credit_scoring.png
   desc: Increased the approval rate of credit card merchant customers by 5% by developing a credibility scoring model and segmentation of merchants that led to increase in revenue of millions of dollars
   tech: Language / Technologies used - Python, Scikit-learn, Segmentation, XGBoost
 
@@ -29,7 +29,7 @@
   i18n: adbanners
   gh_user: dineshdaultani
   #repo: StockPredictions
-  img: /static/assets/img/landing/python.png
+  img: /static/assets/img/landing/bandit.png
   desc: Research about current recommendation systems, platform & frameworks used in industry and academia. Develop a contextual bandit model to show banners on Rakuten ecommerce websites
   tech: Language / Technologies used - Python, Bandit, Thomson Sampling
 
