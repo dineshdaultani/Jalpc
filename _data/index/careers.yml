@@ -47,13 +47,13 @@
     detail: Illinois State University
     i18n: company_c
   desc:
-    detail: Taught diverse majors undergrad students Java and basics of computers in the introductory programming course labs.
+    detail: Helped professor in reproducing best research papers in computer vision domain, specifically on MNIST & CIFAR-10 dataset to optimize the error rate by combining new image transformation ideas. Taught diverse majors undergrad students Java and basics of computers in the introductory programming course labs.
     i18n: company_c_desc
   date:
     detail: Aug 2016 - May 2017
     i18n: company_c_date
   job:
-    detail: Graduate Teaching Assistant
+    detail: Research Assistant & Graduate Teaching Assistant
     i18n: company_c_job
   icon: fa-plus-square
 
