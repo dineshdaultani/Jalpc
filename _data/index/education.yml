@@ -16,7 +16,7 @@
   icon: fa-plus-square
 
 - name:
-    detail: C.D.G.I. Indore, India
+    detail: C.D.G.I. Indore, India (RGPV)
     i18n: education_b
   desc:
     courses: Operating Systems; Algorithms; Data Structures; Web Engineering; Cloud Computing; Computer Networking; 
