@@ -1,13 +1,29 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
+    detail: Rakuten (RIT)
+    i18n: company_a
+  desc:
+    detail: Use traditional machine learning, deep learning and reinforcement learning to solve Rakuten’s
+research problems. Collaborate with other researchers to deliver diverse systems for various business units.
+    i18n: company_a_desc
+  date:
+    detail: Apr 2018 - Present
+    i18n: company_a_date
+  job:
+    detail: Research Scientist
+    i18n: company_a_job
+  icon: fa-plus-square
+
+
+- name:
     detail: CRTCL
     i18n: company_a
   desc:
     detail: Gather news data to predict cryptocurrencies prices through sentiment analysis and trading patterns.
     i18n: company_a_desc
   date:
-    detail: Sept 2017 - Present
+    detail: Aug 2017 - Nov 2017
     i18n: company_a_date
   job:
     detail: Machine Learning Engineer
@@ -56,16 +72,3 @@
     i18n: company_d_job
   icon: fa-plus-square
 
-- name:
-    detail: Persistent Systems
-    i18n: company_e
-  desc:
-    detail: Developed Complaint Web Portal using Struts MVC Framework and designed an interactive website by using HTML, CSS, Javascript & JQuery.
-    i18n: company_e_desc
-  date:
-    detail: Jun 2013 - Jul 2013
-    i18n: company_e_date
-  job:
-    detail: Web Developer Intern
-    i18n: company_e_job
-  icon: fa-plus-square
