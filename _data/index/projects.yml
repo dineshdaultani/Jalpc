@@ -13,7 +13,7 @@
   i18n: csec
   gh_user: dineshdaultani
   #repo: StockPredictions
-  img: /static/assets/img/landing/anomaly_detection.png
+  img: /static/assets/img/landing/csec.png
   desc: Design and develop a user and entity analysis (UEBA) tool to detect anomalies in Rakuten infrastructure from network text logs by convolutional neural networks and multi-modal learning approaches
   tech: Language / Technologies used - Python, Keras, TensorFlow, Shell, CNN, Clustering, Scikit-learn
 
@@ -54,7 +54,7 @@
   #url: https://google.com
   gh_user: dineshdaultani
   #repo: nipsanalysis
-  img: /static/assets/img/landing/python.png
+  img: /static/assets/img/landing/cifar_10.png
   desc:  Implemented convolutional neural networks and recurrent neural network to predict and visualize the images in CIFAR-10 dataset.
   tech: Language / Technologies used - Python, Pandas, Numpy, ggplot2
   
